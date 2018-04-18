@@ -1,14 +1,14 @@
-
+#input string
 varInput = "There is something infantile in the presumption that somebody else has a responsibility to give " + \
            "your life meaning and point… The truly adult view, by contrast, is that our life is as meaningful, " + \
            "as full and as wonderful as we choose to make it."
-
+# new string for substution cypher
 subCypher = ""
 
 print("Input prior to cypher: ", varInput)
 
 #substution cypher
-for char in varInput.lower():
+for char in varInput.lower():#lower to aviod error due to case
     if char == "a":
         subCypher += "z"
     elif char == "b":
