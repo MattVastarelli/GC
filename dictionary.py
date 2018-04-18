@@ -10,7 +10,7 @@ myVar = "answer = (124.3866*9123.7835687)/56. This is my equation, it can be lon
         "several lines on your screen."
 
 #check each char if in dictionary increment the value for the ocurance
-for char in myVar.lower():
+for char in myVar.lower(): #lower to aviod error due to case
     if char == "a":
         dict["a"] += 1
     elif char == "b":
