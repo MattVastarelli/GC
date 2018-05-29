@@ -9,14 +9,14 @@ drone forensics, and more.
 #### Table of Contents 
 * Problems
 	* 	[Lab 1 Assignment](#lab-1-assignment)
-	* 	[Lab 2 Assignment](#Lab-2-Assignment) 
-	* 	[Lab 3 Assignment](#Lab-3-Assignment)
-	* 	[Lab 4 Assignment](#Lab-4-Assignment)
+	* 	[Lab 2 Assignment](#lab-2-assignment) 
+	* 	[Lab 3 Assignment](#lab-3-assignment)
+	* 	[Lab 4 Assignment](#lab-4-assignment)
 * Why it works
-	* [Lab 1 Info/Help](#Lab-1-Info/Help)
-	* [Lab 2 Info/Help](#Lab-2-Info/Help)
-	* [Lab 3 Info/Help](#Lab-3-Info/Help)
-	* [Lab 4 Info/Help](#Lab-4-Info/Help)
+	* [Lab 1 Info/Help](#lab-1-info/help)
+	* [Lab 2 Info/Help](#lab-2-info/help)
+	* [Lab 3 Info/Help](#lab-3-info/help)
+	* [Lab 4 Info/Help](#lab-4-info/help)
 
 #### Problems
 
@@ -39,7 +39,7 @@ Now make the following changes/additional to your program:
 	to include a random number in your program. Print it out with a label identifying it. Use it in
 	a calculation. Example: random.randint(0,20)
     
- [Solution](GC/master/lab1.py)
+ [Solution](gc/master/lab1.py)
 
 ##### Lab 2 Assignment
 Create a project called “2 Robot”. Create a python program called “robot” in this
