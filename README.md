@@ -11,12 +11,10 @@ drone forensics, and more.
 	* 	[Lab 1 Assignment](#lab-1-assignment)
 	* 	[Lab 2 Assignment](#lab-2-assignment) 
 	* 	[Lab 3 Assignment](#lab-3-assignment)
-	* 	[Lab 4 Assignment](#lab-4-assignment)
 * Why it works
 	* [Lab 1 Info/Help](#lab-1-info/help)
 	* [Lab 2 Info/Help](#lab-2-info/help)
 	* [Lab 3 Info/Help](#lab-3-info/help)
-	* [Lab 4 Info/Help](#lab-4-info/help)
 
 #### Problems
 
@@ -101,22 +99,6 @@ Now print out the resulting table. Don’t forget to print several items per lin
 between them, so your table is compact.
 
  [Solution](https://github.com/MattVastarelli/GC/blob/master/dictionary.py)
-
-##### Lab 4 Assignment
-Create a python program called “cipher” in this project by clicking File/New/Python Program. You
-will see cipher.py appear in the “2 Cipher” folder.
-
-1. Substitution cipher - read input and switch each letter to any letter or number you choose. Only
-	use each character once. Leave punctuation and spaces alone. $10 CyberBucks
-2. Transposition cipher: Switch letters around in any pattern you choose, but do not change the
-	first and last letters. Can you still read the sentence? Now try it with all letters switched, can you
-	read it now? $10 CyberBucks.
-3. Caesar Cipher: Create a program to the encrypt a text of any length using Caesar Cipher with a
-	shift of 3 letters. Your program should encrypt and decrypt your text. $30 CyberBucks.
-	a. Modify the program to allow the shift to be chosen. You can choose a shift of 1 to 26.
-	b. Modify the program to read the text from a file.
-    
-     [Solution](https://github.com/MattVastarelli/GC/blob/master/cypher.py)
      
 #### Why it works
 
@@ -219,12 +201,4 @@ To print a dictionary you must print both the key and value of every element in 
 for x in dict:
     print (x, ":" ,dict[x])
 ```
-##### Lab 4 Info/Help
-To create a substitution cypher you need a dictionary to serve as the cypher and a string. From here you simply have to concatenate the value of the dictionary to the cypher-text string.  
-```python
-for char in varInput.lower():
-    if char in dict:
-        subCypher += dict[char]
-    else:
-        subCypher += char
-```
+
