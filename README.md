@@ -80,7 +80,7 @@ project will.
 	file, then put the conversation into the file. See how nice you can make it look. Use
 	the end= feature to make paragraphs.
     
-     [Solution](GC/master/robot.py)
+     [Solution](https://github.com/MattVastarelli/GC/blob/master/Robot.py)
     
  ##### Lab 3 Assignment
  
@@ -100,7 +100,7 @@ demonstrate how to do this for letters and share the code to my google drive.
 Now print out the resulting table. Don’t forget to print several items per line with comma and space
 between them, so your table is compact.
 
- [Solution](GC/master/dictionary.py)
+ [Solution](https://github.com/MattVastarelli/GC/blob/master/dictionary.py)
 
 ##### Lab 4 Assignment
 Create a python program called “cipher” in this project by clicking File/New/Python Program. You
@@ -116,7 +116,7 @@ will see cipher.py appear in the “2 Cipher” folder.
 	a. Modify the program to allow the shift to be chosen. You can choose a shift of 1 to 26.
 	b. Modify the program to read the text from a file.
     
-     [Solution](GC/master/cypher.py)
+     [Solution](https://github.com/MattVastarelli/GC/blob/master/cypher.py)
      
 #### Why it works
 
