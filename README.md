@@ -39,7 +39,7 @@ Now make the following changes/additional to your program:
 	to include a random number in your program. Print it out with a label identifying it. Use it in
 	a calculation. Example: random.randint(0,20)
     
- [Solution](gc/master/lab1.py)
+ [Solution](https://github.com/MattVastarelli/GC/blob/master/lab1.py)
 
 ##### Lab 2 Assignment
 Create a project called “2 Robot”. Create a python program called “robot” in this
