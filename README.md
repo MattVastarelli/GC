@@ -1,4 +1,5 @@
-![alt text](gencyberlogo.PNG)
+![alt text](gencyberlogo.png)
+
 #  NSA - GenCyber
 Solutions to the assigned challenges 
 #### About
