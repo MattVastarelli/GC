@@ -8,7 +8,7 @@ interested in digital forensics and security. Topics include web applications, e
 drone forensics, and more.
 #### Table of Contents 
 * Problems
-	* 	[Lab 1 Assignment](#Lab-1-Assignment)
+	* 	[Lab 1 Assignment](#lab-1-assignment)
 	* 	[Lab 2 Assignment](#Lab-2-Assignment) 
 	* 	[Lab 3 Assignment](#Lab-3-Assignment)
 	* 	[Lab 4 Assignment](#Lab-4-Assignment)
