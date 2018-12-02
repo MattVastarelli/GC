@@ -14,9 +14,9 @@ drone forensics, and more.
 	* 	[Lab 2 Assignment](#lab-2-assignment) 
 	* 	[Lab 3 Assignment](#lab-3-assignment)
 * Why it works
-	* [Lab 1 Info/Help](#lab-1-info/help)
-	* [Lab 2 Info/Help](#lab-2-info/help)
-	* [Lab 3 Info/Help](#lab-3-info/help)
+	* [Lab 1 Info/Help](#lab-1-help)
+	* [Lab 2 Info/Help](#lab-2-help)
+	* [Lab 3 Info/Help](#lab-3-help)
 
 #### Problems
 
@@ -104,7 +104,7 @@ between them, so your table is compact.
      
 #### Why it works
 
-##### Lab 1 Info/Help
+##### Lab 1 Help
 The libraries that need to be accessed through the import statement.
 ```python
 import math
@@ -136,7 +136,7 @@ print("Random number: ", randNum, " Plus Number var = ", randNum + numVar)
 2. libraries must be added via "import"
 3. some times library functions require accessing the library by its name i.e. "Math" and its function by ".factorial" 
 
-##### Lab 2 Info/Help
+##### Lab 2 Help
 Files are opened using the open() function, this function will create a new file in the local directory if one of that name does not already exist. The open function allows a program to set the privileges of a file by passing it in along as a string with the file name, for basics write = "w" read = "r".
 ````python
 inFile = open("dataFile.txt")
@@ -179,7 +179,7 @@ Always remember to close the file
 inFile.close()
 outFile.close()
 ````
-##### Lab 3 Info/Help
+##### Lab 3 Help
 Dictionaries are structures that have a key in this case the letter and a value for this example the numbers. It should be noted that in dictionaries both the key and the value could be accessed.
 ```python
 #make the dictionary
